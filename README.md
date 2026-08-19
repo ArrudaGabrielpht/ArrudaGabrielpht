@@ -1,44 +1,73 @@
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   GABRIEL ARRUDA                                         │
-│   desenvolvimento de sistemas                            │
-│                                                          │
-│   student • developer • builder                          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+# Gabriel Arruda
 
-ABOUT
+### `tec. desenvolvimento de sistemas`
 
-estudante de desenvolvimento de sistemas no SENAI,
-explorando programação, desenvolvimento web e tecnologia.
+---
 
-atualmente construindo projetos, estudando novas
-tecnologias e tentando transformar ideias em código.
+## sobre mim
 
-TECH
+```txt
+gabriel arruda
+estudante de desenvolvimento de sistemas @ SENAI
+focado em programação e desenvolvimento web
+sempre aprendendo algo novo
+```
 
-HTML     CSS     JavaScript     PHP     Python
-Git      GitHub  Linux         Arduino  VS Code
+---
 
-CURRENTLY BUILDING
+## tecnologias
 
-→ projetos web
-→ aplicações em PHP
-→ estudos de JavaScript
-→ projetos do SENAI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+</p>
 
-FEATURED
+## ferramentas
 
-[ FluxSkyDev ]                         [ Back-end ]
-projeto web                            estudos e aplicações
-HTML / CSS / JavaScript                PHP / programação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
+</p>
 
-GITHUB
+---
 
-[ contributions ] [ repositories ] [ commits ]
+## atualmente
 
-──────────────────────────────────────────────────────────
+```txt
+→ estudando JavaScript e PHP
+→ desenvolvendo projetos web
+→ aprimorando lógica de programação
+→ explorando backend e bancos de dados
+→ construindo projetos no SENAI
+```
 
-         "build something worth remembering."
+---
 
-                           ARRUDA
+## projetos
+
+### site fluxskydev
+
+site desenvolvido para colocar em prática conhecimentos de desenvolvimento web.
+
+`HTML` `CSS` `JavaScript`
+
+### back-end
+
+repositório dedicado aos estudos e projetos de backend.
+
+`PHP` `programação` `lógica`
+
+---
+
+## github
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArrudaGabrielpht&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrudaGabrielpht&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+<p align="center">
+
+`build. learn. repeat.`
+
+</p>
