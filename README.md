@@ -21,3 +21,6 @@ Ferramentas
 
 <p align="center"> <code>build. learn. repeat.</code> </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArrudaGabrielpht/ArrudaGabrielpht/output/github-contribution-grid-snake.svg">
+</p>
