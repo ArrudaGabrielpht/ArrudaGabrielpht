@@ -1,6 +1,10 @@
 # Gabriel Arruda
 
-### `Tec. Desenvolvimento de Sistemas`
+<p align="left">
+  <img src="https://dn.senaiead.senai.br/images/logo/logo_horz_150.png" height="24">
+  &nbsp;
+  <strong>TEC Desenvolvimento de Sistemas 1/2</strong>
+</p>
 
 ---
 
