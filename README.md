@@ -1,17 +1,6 @@
 # Gabriel Arruda
 
-### `tec. desenvolvimento de sistemas`
-
----
-
-## sobre mim
-
-```txt
-gabriel arruda
-estudante de desenvolvimento de sistemas @ SENAI
-focado em programação e desenvolvimento web
-sempre aprendendo algo novo
-```
+### `Tec. Desenvolvimento de Sistemas`
 
 ---
 
@@ -28,33 +17,6 @@ sempre aprendendo algo novo
 </p>
 
 ---
-
-## atualmente
-
-```txt
-→ estudando JavaScript e PHP
-→ desenvolvendo projetos web
-→ aprimorando lógica de programação
-→ explorando backend e bancos de dados
-→ construindo projetos no SENAI
-```
-
----
-
-## projetos
-
-### site fluxskydev
-
-site desenvolvido para colocar em prática conhecimentos de desenvolvimento web.
-
-`HTML` `CSS` `JavaScript`
-
-### back-end
-
-repositório dedicado aos estudos e projetos de backend.
-
-`PHP` `programação` `lógica`
-
 ---
 
 ## github
