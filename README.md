@@ -1,8 +1,8 @@
 # Gabriel Arruda
 
 <p align="left">
-  <img src="https://dn.senaiead.senai.br/images/logo/logo_horz_150.png" height="20">
-  TEC Desenvolvimento de Sistemas 1/2
+  <img src="LOGO_SENAI" height="22">
+  <strong>TEC Desenvolvimento de Sistemas 1/2</strong>
 </p>
 ---
 
