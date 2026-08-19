@@ -19,7 +19,6 @@ Ferramentas
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"> </p>
 
-<p align="center"> <code>build. learn. repeat.</code> </p>
 
 <p align="center">
   <picture>
