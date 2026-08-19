@@ -4,11 +4,8 @@
 
 ---
 
-## Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-</p>
+Tecnologias
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python" height="50"/> </p> ```
 
 ## Ferramentas
 
